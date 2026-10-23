@@ -1,0 +1,115 @@
+{
+ "table_E1": {
+  "naive_accuracy_independent": 89.65,
+  "naive_accuracy_shared_source": 77.93,
+  "grouped_accuracy_shared_source": 85.08,
+  "absolute_change_pp": 7.15,
+  "relative_error_reduction": 32.39,
+  "first_three_wrong_independent": 1.56,
+  "first_three_wrong_shared_source": 20.31,
+  "naive_wrong_grouped_right": 11.43,
+  "naive_right_grouped_wrong": 4.28,
+  "amplification_of_first_three_wrong": 13.0
+ },
+ "table_E2_change_pp": {
+  "p=0.65": {
+   "rho=0.00": -1.55,
+   "rho=0.25": 0.54,
+   "rho=0.50": 2.64,
+   "rho=0.75": 4.73,
+   "rho=0.90": 5.99
+  },
+  "p=0.70": {
+   "rho=0.00": -1.76,
+   "rho=0.25": 0.78,
+   "rho=0.50": 3.32,
+   "rho=0.75": 5.86,
+   "rho=0.90": 7.38
+  },
+  "p=0.75": {
+   "rho=0.00": -1.76,
+   "rho=0.25": 1.03,
+   "rho=0.50": 3.81,
+   "rho=0.75": 6.59,
+   "rho=0.90": 8.26
+  },
+  "p=0.80": {
+   "rho=0.00": -1.54,
+   "rho=0.25": 1.25,
+   "rho=0.50": 4.03,
+   "rho=0.75": 6.82,
+   "rho=0.90": 8.49
+  },
+  "p=0.85": {
+   "rho=0.00": -1.14,
+   "rho=0.25": 1.38,
+   "rho=0.50": 3.89,
+   "rho=0.75": 6.41,
+   "rho=0.90": 7.92
+  }
+ },
+ "table_E3": {
+  "independent_errors|verifier_only_gating": {
+   "wrong_candidate_activation": 25.0,
+   "correct_candidate_activation": 75.0,
+   "grant_coverage": 62.5,
+   "error_share_among_active": 10.0
+  },
+  "independent_errors|independent_evidence_gating": {
+   "wrong_candidate_activation": 6.25,
+   "correct_candidate_activation": 56.25,
+   "grant_coverage": 43.75,
+   "error_share_among_active": 3.57
+  },
+  "dependent_errors_rho_0.80|verifier_only_gating": {
+   "wrong_candidate_activation": 85.0,
+   "correct_candidate_activation": 95.0,
+   "grant_coverage": 92.5,
+   "error_share_among_active": 22.97
+  },
+  "dependent_errors_rho_0.80|independent_evidence_gating": {
+   "wrong_candidate_activation": 21.25,
+   "correct_candidate_activation": 71.25,
+   "grant_coverage": 58.75,
+   "error_share_among_active": 9.04
+  }
+ },
+ "table_E4": {
+  "rho=0.00": {
+   "wrong_activation_verifier_only": 25.0,
+   "wrong_activation_independent_gate": 6.25,
+   "error_share_verifier_only": 10.0,
+   "error_share_independent_gate": 3.57
+  },
+  "rho=0.25": {
+   "wrong_activation_verifier_only": 43.75,
+   "wrong_activation_independent_gate": 10.94,
+   "error_share_verifier_only": 15.22,
+   "error_share_independent_gate": 5.65
+  },
+  "rho=0.50": {
+   "wrong_activation_verifier_only": 62.5,
+   "wrong_activation_independent_gate": 15.63,
+   "error_share_verifier_only": 19.23,
+   "error_share_independent_gate": 7.35
+  },
+  "rho=0.75": {
+   "wrong_activation_verifier_only": 81.25,
+   "wrong_activation_independent_gate": 20.31,
+   "error_share_verifier_only": 22.41,
+   "error_share_independent_gate": 8.78
+  },
+  "rho=0.80": {
+   "wrong_activation_verifier_only": 85.0,
+   "wrong_activation_independent_gate": 21.25,
+   "error_share_verifier_only": 22.97,
+   "error_share_independent_gate": 9.04
+  },
+  "rho=0.90": {
+   "wrong_activation_verifier_only": 92.5,
+   "wrong_activation_independent_gate": 23.13,
+   "error_share_verifier_only": 24.03,
+   "error_share_independent_gate": 9.54
+  }
+ }
+}
