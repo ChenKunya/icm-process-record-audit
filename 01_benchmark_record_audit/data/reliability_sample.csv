@@ -1,0 +1,9 @@
+draw_order,benchmark_id,benchmark,task_family,paper_title,venue
+1,4,TravelPlanner,Planning and feedback,TravelPlanner: A Benchmark for Real-World Planning with Language Agents,ICML 2024
+2,18,Toolathlon,Tools and interfaces,The Tool Decathlon / Toolathlon: Benchmarking Language Agents for Long-Horizon Tool Use,ICLR 2026
+3,31,WorkArena++,Web and graphical interface,WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks,NeurIPS 2024 Datasets & Benchmarks
+4,39,LongMemEval,Memory,LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory,ICLR 2025
+5,50,Who&When,General and multi-agent,Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems,ICML 2025
+6,55,AgentHarm,Safety and privacy,AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents,ICLR 2025
+7,73,AgencyBench,"Software, science, and data",AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts,ACL 2026
+8,12,HammerBench,Tools and interfaces (additional draw),HammerBench: Fine-Grained Function-Calling Evaluation in Real Mobile Assistant Scenarios,Findings of ACL 2025

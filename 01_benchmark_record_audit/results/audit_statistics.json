@@ -1,0 +1,1406 @@
+{
+ "source": "audit_coding_table_74x10_A01.xlsx",
+ "n_benchmarks": 74,
+ "n_units": 740,
+ "code_distribution": {
+  "D": 133,
+  "R": 105,
+  "U": 164,
+  "NA": 338
+ },
+ "n_weak_boundary_NA": 254,
+ "n_R_requiring_convention": 40,
+ "fields": [
+  {
+   "field": "Source identifier",
+   "D": 65,
+   "R": 8,
+   "U": 0,
+   "NA": 1,
+   "main": {
+    "k": 73,
+    "n": 73,
+    "pct": 100.0,
+    "wilson95": [
+     95.0,
+     100.0
+    ]
+   },
+   "app": {
+    "k": 73,
+    "n": 74,
+    "pct": 98.6,
+    "wilson95": [
+     92.7,
+     99.8
+    ]
+   },
+   "inf": {
+    "k": 73,
+    "n": 73,
+    "pct": 100.0,
+    "wilson95": [
+     95.0,
+     100.0
+    ]
+   },
+   "joint": {
+    "k": 73,
+    "n": 74,
+    "pct": 98.6,
+    "wilson95": [
+     92.7,
+     99.8
+    ]
+   }
+  },
+  {
+   "field": "Temporal position",
+   "D": 27,
+   "R": 43,
+   "U": 3,
+   "NA": 1,
+   "main": {
+    "k": 70,
+    "n": 73,
+    "pct": 95.9,
+    "wilson95": [
+     88.6,
+     98.6
+    ]
+   },
+   "app": {
+    "k": 70,
+    "n": 73,
+    "pct": 95.9,
+    "wilson95": [
+     88.6,
+     98.6
+    ]
+   },
+   "inf": {
+    "k": 69,
+    "n": 73,
+    "pct": 94.5,
+    "wilson95": [
+     86.7,
+     97.8
+    ]
+   },
+   "joint": {
+    "k": 69,
+    "n": 73,
+    "pct": 94.5,
+    "wilson95": [
+     86.7,
+     97.8
+    ]
+   }
+  },
+  {
+   "field": "State version",
+   "D": 22,
+   "R": 13,
+   "U": 26,
+   "NA": 13,
+   "main": {
+    "k": 35,
+    "n": 61,
+    "pct": 57.4,
+    "wilson95": [
+     44.9,
+     69.0
+    ]
+   },
+   "app": {
+    "k": 35,
+    "n": 70,
+    "pct": 50.0,
+    "wilson95": [
+     38.6,
+     61.4
+    ]
+   },
+   "inf": {
+    "k": 27,
+    "n": 61,
+    "pct": 44.3,
+    "wilson95": [
+     32.5,
+     56.7
+    ]
+   },
+   "joint": {
+    "k": 27,
+    "n": 70,
+    "pct": 38.6,
+    "wilson95": [
+     28.0,
+     50.3
+    ]
+   }
+  },
+  {
+   "field": "Dependence relations",
+   "D": 8,
+   "R": 17,
+   "U": 46,
+   "NA": 3,
+   "main": {
+    "k": 25,
+    "n": 71,
+    "pct": 35.2,
+    "wilson95": [
+     25.1,
+     46.8
+    ]
+   },
+   "app": {
+    "k": 25,
+    "n": 73,
+    "pct": 34.2,
+    "wilson95": [
+     24.4,
+     45.7
+    ]
+   },
+   "inf": {
+    "k": 11,
+    "n": 71,
+    "pct": 15.5,
+    "wilson95": [
+     8.9,
+     25.7
+    ]
+   },
+   "joint": {
+    "k": 11,
+    "n": 73,
+    "pct": 15.1,
+    "wilson95": [
+     8.6,
+     25.0
+    ]
+   }
+  },
+  {
+   "field": "Parameter provenance",
+   "D": 1,
+   "R": 9,
+   "U": 44,
+   "NA": 20,
+   "main": {
+    "k": 10,
+    "n": 54,
+    "pct": 18.5,
+    "wilson95": [
+     10.4,
+     30.8
+    ]
+   },
+   "app": {
+    "k": 10,
+    "n": 73,
+    "pct": 13.7,
+    "wilson95": [
+     7.6,
+     23.4
+    ]
+   },
+   "inf": {
+    "k": 2,
+    "n": 54,
+    "pct": 3.7,
+    "wilson95": [
+     1.0,
+     12.5
+    ]
+   },
+   "joint": {
+    "k": 2,
+    "n": 73,
+    "pct": 2.7,
+    "wilson95": [
+     0.8,
+     9.5
+    ]
+   }
+  },
+  {
+   "field": "Propagable uncertainty representation",
+   "D": 0,
+   "R": 0,
+   "U": 10,
+   "NA": 64,
+   "main": {
+    "k": 0,
+    "n": 10,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     27.8
+    ]
+   },
+   "app": {
+    "k": 0,
+    "n": 70,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     5.2
+    ]
+   },
+   "inf": {
+    "k": 0,
+    "n": 10,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     27.8
+    ]
+   },
+   "joint": {
+    "k": 0,
+    "n": 70,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     5.2
+    ]
+   }
+  },
+  {
+   "field": "Conflict representation",
+   "D": 4,
+   "R": 2,
+   "U": 19,
+   "NA": 49,
+   "main": {
+    "k": 6,
+    "n": 25,
+    "pct": 24.0,
+    "wilson95": [
+     11.5,
+     43.4
+    ]
+   },
+   "app": {
+    "k": 6,
+    "n": 71,
+    "pct": 8.5,
+    "wilson95": [
+     3.9,
+     17.2
+    ]
+   },
+   "inf": {
+    "k": 4,
+    "n": 25,
+    "pct": 16.0,
+    "wilson95": [
+     6.4,
+     34.7
+    ]
+   },
+   "joint": {
+    "k": 4,
+    "n": 71,
+    "pct": 5.6,
+    "wilson95": [
+     2.2,
+     13.6
+    ]
+   }
+  },
+  {
+   "field": "Responsibility or commitment status",
+   "D": 3,
+   "R": 4,
+   "U": 2,
+   "NA": 65,
+   "main": {
+    "k": 7,
+    "n": 9,
+    "pct": 77.8,
+    "wilson95": [
+     45.3,
+     93.7
+    ]
+   },
+   "app": {
+    "k": 7,
+    "n": 16,
+    "pct": 43.8,
+    "wilson95": [
+     23.1,
+     66.8
+    ]
+   },
+   "inf": {
+    "k": 5,
+    "n": 9,
+    "pct": 55.6,
+    "wilson95": [
+     26.7,
+     81.1
+    ]
+   },
+   "joint": {
+    "k": 5,
+    "n": 16,
+    "pct": 31.3,
+    "wilson95": [
+     14.2,
+     55.6
+    ]
+   }
+  },
+  {
+   "field": "Validity-change event",
+   "D": 0,
+   "R": 7,
+   "U": 13,
+   "NA": 54,
+   "main": {
+    "k": 7,
+    "n": 20,
+    "pct": 35.0,
+    "wilson95": [
+     18.1,
+     56.7
+    ]
+   },
+   "app": {
+    "k": 7,
+    "n": 68,
+    "pct": 10.3,
+    "wilson95": [
+     5.1,
+     19.8
+    ]
+   },
+   "inf": {
+    "k": 3,
+    "n": 20,
+    "pct": 15.0,
+    "wilson95": [
+     5.2,
+     36.0
+    ]
+   },
+   "joint": {
+    "k": 3,
+    "n": 68,
+    "pct": 4.4,
+    "wilson95": [
+     1.5,
+     12.2
+    ]
+   }
+  },
+  {
+   "field": "Version lineage and rollback",
+   "D": 3,
+   "R": 2,
+   "U": 1,
+   "NA": 68,
+   "main": {
+    "k": 5,
+    "n": 6,
+    "pct": 83.3,
+    "wilson95": [
+     43.6,
+     97.0
+    ]
+   },
+   "app": {
+    "k": 5,
+    "n": 68,
+    "pct": 7.4,
+    "wilson95": [
+     3.2,
+     16.1
+    ]
+   },
+   "inf": {
+    "k": 4,
+    "n": 6,
+    "pct": 66.7,
+    "wilson95": [
+     30.0,
+     90.3
+    ]
+   },
+   "joint": {
+    "k": 4,
+    "n": 68,
+    "pct": 5.9,
+    "wilson95": [
+     2.3,
+     14.2
+    ]
+   }
+  }
+ ],
+ "changed_units_app": {
+  "Propagable uncertainty representation": [
+   "MINT",
+   "FlowBench",
+   "TravelPlanner",
+   "LLF-Bench",
+   "API-Bank",
+   "ToolBench",
+   "BFCL",
+   "HammerBench",
+   "StableToolBench",
+   "\u03c4-bench",
+   "\u03c4\u00b2-bench",
+   "MCP-Atlas",
+   "Toolathlon",
+   "APOLLO",
+   "GOATBench",
+   "Mind2Web",
+   "WebArena",
+   "WebVoyager",
+   "WebLINX",
+   "VisualWebArena",
+   "MMInA",
+   "WebCanvas",
+   "ST-WebAgentBench",
+   "WorkArena",
+   "WorkArena++",
+   "OSWorld",
+   "Windows Agent Arena",
+   "SafeArena",
+   "MAS-Bench (Mobile GUI)",
+   "LoCoMo",
+   "LongMemEval",
+   "MemBench",
+   "MemoryAgentBench",
+   "LoCoMo-Plus",
+   "GAIA",
+   "AgentBench",
+   "AgentBoard",
+   "AppWorld",
+   "TheAgentCompany",
+   "CRMArena",
+   "Who&When",
+   "TraceElephant",
+   "MAS-BENCH (Distributed Sorting)",
+   "LiveCultureBench",
+   "AgentHarm",
+   "ASB",
+   "CI-Work",
+   "SWE-bench",
+   "SWE-bench Multimodal",
+   "SWE-Lancer",
+   "Terminal-Bench",
+   "SUPER",
+   "CORE-Bench",
+   "ScienceAgentBench",
+   "PaperBench",
+   "RExBench",
+   "DataSciBench",
+   "UniDataBench",
+   "InsightEval",
+   "AgencyBench"
+  ],
+  "Conflict representation": [
+   "MINT",
+   "FlowBench",
+   "TravelPlanner",
+   "LLF-Bench",
+   "ToolEmu",
+   "API-Bank",
+   "BFCL",
+   "ToolSandbox",
+   "HammerBench",
+   "StableToolBench",
+   "NESTFUL",
+   "\u03c4-bench",
+   "\u03c4\u00b2-bench",
+   "MCP-Atlas",
+   "Toolathlon",
+   "APOLLO",
+   "GOATBench",
+   "Mind2Web",
+   "WebArena",
+   "WebVoyager",
+   "WebLINX",
+   "VisualWebArena",
+   "MMInA",
+   "AssistantBench",
+   "WebCanvas",
+   "WorkArena",
+   "OSWorld",
+   "Windows Agent Arena",
+   "SafeArena",
+   "MAS-Bench (Mobile GUI)",
+   "LoCoMo",
+   "GAIA",
+   "AgentBench",
+   "AgentBoard",
+   "CRMArena",
+   "AgentHarm",
+   "SWE-bench",
+   "SWE-bench Multimodal",
+   "Terminal-Bench",
+   "SUPER",
+   "CORE-Bench",
+   "ScienceAgentBench",
+   "PaperBench",
+   "RExBench",
+   "DataSciBench",
+   "AgencyBench"
+  ],
+  "Version lineage and rollback": [
+   "MINT",
+   "PlanBench",
+   "FlowBench",
+   "TravelPlanner",
+   "Reflection-Bench",
+   "LLF-Bench",
+   "ToolEmu",
+   "API-Bank",
+   "BFCL",
+   "ToolSandbox",
+   "HammerBench",
+   "StableToolBench",
+   "\u03c4-bench",
+   "\u03c4\u00b2-bench",
+   "Toolathlon",
+   "APOLLO",
+   "GOATBench",
+   "Mind2Web",
+   "WebArena",
+   "WebVoyager",
+   "WebLINX",
+   "VisualWebArena",
+   "MMInA",
+   "AssistantBench",
+   "WebCanvas",
+   "ST-WebAgentBench",
+   "WorkArena",
+   "WorkArena++",
+   "OSWorld",
+   "Windows Agent Arena",
+   "SafeArena",
+   "MAS-Bench (Mobile GUI)",
+   "LoCoMo",
+   "LongMemEval",
+   "MemBench",
+   "MemoryAgentBench",
+   "LoCoMo-Plus",
+   "GAIA",
+   "AgentBench",
+   "AgentBoard",
+   "AppWorld",
+   "TheAgentCompany",
+   "MultiAgentBench",
+   "Who&When",
+   "TraceElephant",
+   "MAS-BENCH (Distributed Sorting)",
+   "Market-Bench",
+   "LiveCultureBench",
+   "ASB",
+   "CI-Work",
+   "Terminal-Bench",
+   "SUPER",
+   "CORE-Bench",
+   "ScienceAgentBench",
+   "PaperBench",
+   "DataSciBench",
+   "UniDataBench",
+   "InsightEval",
+   "InvestorBench",
+   "CAR-bench",
+   "AgencyBench",
+   "AgentGym2"
+  ],
+  "Parameter provenance": [
+   "PlanBench",
+   "Reflection-Bench",
+   "LLF-Bench",
+   "LoCoMo",
+   "LongMemEval",
+   "MemBench",
+   "MemoryAgentBench",
+   "LoCoMo-Plus",
+   "LiveCultureBench",
+   "SWE-bench",
+   "SWE-bench Multimodal",
+   "SWE-Lancer",
+   "ScienceAgentBench",
+   "PaperBench",
+   "RExBench",
+   "DataSciBench",
+   "UniDataBench",
+   "InsightEval",
+   "InvestorBench"
+  ],
+  "Validity-change event": [
+   "PlanBench",
+   "FlowBench",
+   "TravelPlanner",
+   "ToolEmu",
+   "API-Bank",
+   "ToolBench",
+   "ToolSandbox",
+   "StableToolBench",
+   "\u03c4\u00b2-bench",
+   "Toolathlon",
+   "GOATBench",
+   "Mind2Web",
+   "WebArena",
+   "WebVoyager",
+   "WebLINX",
+   "VisualWebArena",
+   "MMInA",
+   "AssistantBench",
+   "WebCanvas",
+   "ST-WebAgentBench",
+   "WorkArena",
+   "WorkArena++",
+   "OSWorld",
+   "Windows Agent Arena",
+   "SafeArena",
+   "MAS-Bench (Mobile GUI)",
+   "GAIA",
+   "AgentBench",
+   "AgentBoard",
+   "AppWorld",
+   "TheAgentCompany",
+   "CRMArena",
+   "LiveCultureBench",
+   "CI-Work",
+   "SWE-bench",
+   "SWE-bench Multimodal",
+   "SWE-Lancer",
+   "ITBench",
+   "Terminal-Bench",
+   "SUPER",
+   "CORE-Bench",
+   "PaperBench",
+   "RExBench",
+   "DataSciBench",
+   "UniDataBench",
+   "InsightEval",
+   "CAR-bench",
+   "AgentGym2"
+  ],
+  "State version": [
+   "ToolBench",
+   "StableToolBench",
+   "NESTFUL",
+   "APOLLO",
+   "GOATBench",
+   "CRMArena",
+   "CI-Work",
+   "UniDataBench",
+   "InsightEval"
+  ],
+  "Responsibility or commitment status": [
+   "ToolSandbox",
+   "ST-WebAgentBench",
+   "LoCoMo",
+   "AgentBench",
+   "Market-Bench",
+   "ASB",
+   "CI-Work"
+  ],
+  "Dependence relations": [
+   "HammerBench",
+   "OmniACT"
+  ],
+  "Source identifier": [
+   "OmniACT"
+  ]
+ },
+ "changed_units_inf": {
+  "Validity-change event": [
+   "MINT",
+   "\u03c4-bench",
+   "LongMemEval",
+   "AgencyBench"
+  ],
+  "Dependence relations": [
+   "PlanBench",
+   "TravelPlanner",
+   "Reflection-Bench",
+   "API-Bank",
+   "BFCL",
+   "\u03c4-bench",
+   "GOATBench",
+   "WorkArena++",
+   "AppWorld",
+   "CRMArena",
+   "TraceElephant",
+   "AgentHarm",
+   "SUPER",
+   "CAR-bench"
+  ],
+  "State version": [
+   "LLF-Bench",
+   "API-Bank",
+   "BFCL",
+   "\u03c4-bench",
+   "\u03c4\u00b2-bench",
+   "LongMemEval",
+   "SUPER",
+   "CAR-bench"
+  ],
+  "Parameter provenance": [
+   "API-Bank",
+   "HammerBench",
+   "\u03c4-bench",
+   "GOATBench",
+   "AppWorld",
+   "CRMArena",
+   "TraceElephant",
+   "CAR-bench"
+  ],
+  "Responsibility or commitment status": [
+   "\u03c4\u00b2-bench",
+   "MultiAgentBench"
+  ],
+  "Conflict representation": [
+   "LongMemEval",
+   "LoCoMo-Plus"
+  ],
+  "Temporal position": [
+   "LoCoMo-Plus"
+  ],
+  "Version lineage and rollback": [
+   "RExBench"
+  ]
+ },
+ "n_changed_units": {
+  "app": 254,
+  "inf": 40,
+  "joint": 294
+ },
+ "proxies": {
+  "main": {
+   "class_I": {
+    "k": 69,
+    "n": 74,
+    "pct": 93.2,
+    "wilson95": [
+     85.1,
+     97.1
+    ],
+    "bootstrap95": [
+     86.5,
+     98.6
+    ]
+   },
+   "class_C": {
+    "k": 8,
+    "n": 52,
+    "pct": 15.4,
+    "wilson95": [
+     8.0,
+     27.5
+    ],
+    "bootstrap95": [
+     6.0,
+     25.9
+    ]
+   },
+   "class_M": {
+    "k": 7,
+    "n": 20,
+    "pct": 35.0,
+    "wilson95": [
+     18.1,
+     56.7
+    ],
+    "bootstrap95": [
+     14.3,
+     56.2
+    ]
+   },
+   "resamples_I_highest_pct": 100.0,
+   "resamples_M_above_C_pct": 95.37
+  },
+  "app": {
+   "class_I": {
+    "k": 69,
+    "n": 74,
+    "pct": 93.2,
+    "wilson95": [
+     85.1,
+     97.1
+    ],
+    "bootstrap95": [
+     86.5,
+     98.6
+    ]
+   },
+   "class_C": {
+    "k": 8,
+    "n": 73,
+    "pct": 11.0,
+    "wilson95": [
+     5.7,
+     20.2
+    ],
+    "bootstrap95": [
+     4.1,
+     18.9
+    ]
+   },
+   "class_M": {
+    "k": 7,
+    "n": 68,
+    "pct": 10.3,
+    "wilson95": [
+     5.1,
+     19.8
+    ],
+    "bootstrap95": [
+     4.2,
+     17.9
+    ]
+   },
+   "resamples_I_highest_pct": 100.0,
+   "resamples_M_above_C_pct": 44.69
+  },
+  "inf": {
+   "class_I": {
+    "k": 68,
+    "n": 74,
+    "pct": 91.9,
+    "wilson95": [
+     83.4,
+     96.2
+    ],
+    "bootstrap95": [
+     85.1,
+     97.3
+    ]
+   },
+   "class_C": {
+    "k": 1,
+    "n": 52,
+    "pct": 1.9,
+    "wilson95": [
+     0.3,
+     10.1
+    ],
+    "bootstrap95": [
+     0.0,
+     6.2
+    ]
+   },
+   "class_M": {
+    "k": 3,
+    "n": 20,
+    "pct": 15.0,
+    "wilson95": [
+     5.2,
+     36.0
+    ],
+    "bootstrap95": [
+     0.0,
+     33.3
+    ]
+   },
+   "resamples_I_highest_pct": 100.0,
+   "resamples_M_above_C_pct": 94.29
+  },
+  "joint": {
+   "class_I": {
+    "k": 68,
+    "n": 74,
+    "pct": 91.9,
+    "wilson95": [
+     83.4,
+     96.2
+    ],
+    "bootstrap95": [
+     85.1,
+     97.3
+    ]
+   },
+   "class_C": {
+    "k": 1,
+    "n": 73,
+    "pct": 1.4,
+    "wilson95": [
+     0.2,
+     7.4
+    ],
+    "bootstrap95": [
+     0.0,
+     4.2
+    ]
+   },
+   "class_M": {
+    "k": 3,
+    "n": 68,
+    "pct": 4.4,
+    "wilson95": [
+     1.5,
+     12.2
+    ],
+    "bootstrap95": [
+     0.0,
+     10.0
+    ]
+   },
+   "resamples_I_highest_pct": 100.0,
+   "resamples_M_above_C_pct": 88.85
+  }
+ },
+ "class_I_both_fields_applicable": {
+  "k": 69,
+  "n": 72,
+  "pct": 95.8,
+  "wilson95": [
+   88.5,
+   98.6
+  ]
+ },
+ "alternative_proxies": {
+  "direct_only_lower_bound": {
+   "class_I": {
+    "k": 24,
+    "n": 74,
+    "pct": 32.4,
+    "wilson95": [
+     22.9,
+     43.7
+    ]
+   },
+   "class_C": {
+    "k": 1,
+    "n": 52,
+    "pct": 1.9,
+    "wilson95": [
+     0.3,
+     10.1
+    ]
+   },
+   "class_M": {
+    "k": 0,
+    "n": 20,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     16.1
+    ]
+   }
+  },
+  "class_C_relaxed_upper_bound": {
+   "k": 17,
+   "n": 52,
+   "pct": 32.7,
+   "wilson95": [
+    21.5,
+    46.2
+   ]
+  },
+  "persistent_update_indicator": {
+   "k": 12,
+   "n": 26,
+   "pct": 46.2,
+   "wilson95": [
+    28.8,
+    64.5
+   ]
+  }
+ },
+ "class_I_not_met": [
+  "ScreenSpot-Pro",
+  "OmniACT",
+  "SWE-bench",
+  "SWE-bench Multimodal",
+  "SWE-Lancer"
+ ],
+ "class_C_met": [
+  "API-Bank",
+  "NESTFUL",
+  "\u03c4-bench",
+  "GOATBench",
+  "AppWorld",
+  "CRMArena",
+  "TraceElephant",
+  "CAR-bench"
+ ],
+ "validity_change_applicable": [
+  {
+   "benchmark": "MINT",
+   "status": "R",
+   "stability": "Requires additional convention"
+  },
+  {
+   "benchmark": "Reflection-Bench",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "LLF-Bench",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "BFCL",
+   "status": "R",
+   "stability": "Deterministic recovery"
+  },
+  {
+   "benchmark": "HammerBench",
+   "status": "R",
+   "stability": "Deterministic recovery"
+  },
+  {
+   "benchmark": "\u03c4-bench",
+   "status": "R",
+   "stability": "Requires additional convention"
+  },
+  {
+   "benchmark": "APOLLO",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "LoCoMo",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "LongMemEval",
+   "status": "R",
+   "stability": "Requires additional convention"
+  },
+  {
+   "benchmark": "MemBench",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "MemoryAgentBench",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "MultiAgentBench",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "Who&When",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "TraceElephant",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "MAS-BENCH (Distributed Sorting)",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "Market-Bench",
+   "status": "R",
+   "stability": "Deterministic recovery"
+  },
+  {
+   "benchmark": "ASB",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "ScienceAgentBench",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "InvestorBench",
+   "status": "U",
+   "stability": ""
+  },
+  {
+   "benchmark": "AgencyBench",
+   "status": "R",
+   "stability": "Requires additional convention"
+  }
+ ],
+ "task_families": [
+  {
+   "family": "Planning and feedback",
+   "n_benchmarks": 6,
+   "Dependence relations": {
+    "k": 3,
+    "n": 6,
+    "pct": 50.0,
+    "wilson95": [
+     18.8,
+     81.2
+    ]
+   },
+   "Parameter provenance": {
+    "k": 0,
+    "n": 3,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     56.1
+    ]
+   },
+   "Propagable uncertainty representation": {
+    "k": 0,
+    "n": 1,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     79.3
+    ]
+   },
+   "Validity-change event": {
+    "k": 1,
+    "n": 3,
+    "pct": 33.3,
+    "wilson95": [
+     6.1,
+     79.2
+    ]
+   },
+   "Version lineage and rollback": "no applicable benchmark"
+  },
+  {
+   "family": "Tools and interfaces",
+   "n_benchmarks": 14,
+   "Dependence relations": {
+    "k": 7,
+    "n": 13,
+    "pct": 53.8,
+    "wilson95": [
+     29.1,
+     76.8
+    ]
+   },
+   "Parameter provenance": {
+    "k": 5,
+    "n": 14,
+    "pct": 35.7,
+    "wilson95": [
+     16.3,
+     61.2
+    ]
+   },
+   "Propagable uncertainty representation": {
+    "k": 0,
+    "n": 2,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     65.8
+    ]
+   },
+   "Validity-change event": {
+    "k": 3,
+    "n": 4,
+    "pct": 75.0,
+    "wilson95": [
+     30.1,
+     95.4
+    ]
+   },
+   "Version lineage and rollback": {
+    "k": 1,
+    "n": 1,
+    "pct": 100.0,
+    "wilson95": [
+     20.7,
+     100.0
+    ]
+   }
+  },
+  {
+   "family": "Web and graphical interface",
+   "n_benchmarks": 17,
+   "Dependence relations": {
+    "k": 1,
+    "n": 15,
+    "pct": 6.7,
+    "wilson95": [
+     1.2,
+     29.8
+    ]
+   },
+   "Parameter provenance": {
+    "k": 1,
+    "n": 16,
+    "pct": 6.3,
+    "wilson95": [
+     1.1,
+     28.3
+    ]
+   },
+   "Propagable uncertainty representation": {
+    "k": 0,
+    "n": 1,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     79.3
+    ]
+   },
+   "Validity-change event": "no applicable benchmark",
+   "Version lineage and rollback": "no applicable benchmark"
+  },
+  {
+   "family": "Memory",
+   "n_benchmarks": 5,
+   "Dependence relations": {
+    "k": 3,
+    "n": 5,
+    "pct": 60.0,
+    "wilson95": [
+     23.1,
+     88.2
+    ]
+   },
+   "Parameter provenance": "no applicable benchmark",
+   "Propagable uncertainty representation": "no applicable benchmark",
+   "Validity-change event": {
+    "k": 1,
+    "n": 4,
+    "pct": 25.0,
+    "wilson95": [
+     4.6,
+     69.9
+    ]
+   },
+   "Version lineage and rollback": "no applicable benchmark"
+  },
+  {
+   "family": "General and multi-agent",
+   "n_benchmarks": 12,
+   "Dependence relations": {
+    "k": 4,
+    "n": 12,
+    "pct": 33.3,
+    "wilson95": [
+     13.8,
+     60.9
+    ]
+   },
+   "Parameter provenance": {
+    "k": 3,
+    "n": 11,
+    "pct": 27.3,
+    "wilson95": [
+     9.7,
+     56.6
+    ]
+   },
+   "Propagable uncertainty representation": {
+    "k": 0,
+    "n": 2,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     65.8
+    ]
+   },
+   "Validity-change event": {
+    "k": 1,
+    "n": 5,
+    "pct": 20.0,
+    "wilson95": [
+     3.6,
+     62.4
+    ]
+   },
+   "Version lineage and rollback": "no applicable benchmark"
+  },
+  {
+   "family": "Safety and privacy",
+   "n_benchmarks": 3,
+   "Dependence relations": {
+    "k": 1,
+    "n": 3,
+    "pct": 33.3,
+    "wilson95": [
+     6.1,
+     79.2
+    ]
+   },
+   "Parameter provenance": {
+    "k": 0,
+    "n": 3,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     56.1
+    ]
+   },
+   "Propagable uncertainty representation": "no applicable benchmark",
+   "Validity-change event": {
+    "k": 0,
+    "n": 1,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     79.3
+    ]
+   },
+   "Version lineage and rollback": "no applicable benchmark"
+  },
+  {
+   "family": "Software, science, and data",
+   "n_benchmarks": 17,
+   "Dependence relations": {
+    "k": 6,
+    "n": 17,
+    "pct": 35.3,
+    "wilson95": [
+     17.3,
+     58.7
+    ]
+   },
+   "Parameter provenance": {
+    "k": 1,
+    "n": 7,
+    "pct": 14.3,
+    "wilson95": [
+     2.6,
+     51.3
+    ]
+   },
+   "Propagable uncertainty representation": {
+    "k": 0,
+    "n": 4,
+    "pct": 0.0,
+    "wilson95": [
+     0.0,
+     49.0
+    ]
+   },
+   "Validity-change event": {
+    "k": 1,
+    "n": 3,
+    "pct": 33.3,
+    "wilson95": [
+     6.1,
+     79.2
+    ]
+   },
+   "Version lineage and rollback": {
+    "k": 4,
+    "n": 5,
+    "pct": 80.0,
+    "wilson95": [
+     37.6,
+     96.4
+    ]
+   }
+  }
+ ]
+}

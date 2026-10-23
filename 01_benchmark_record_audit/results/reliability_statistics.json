@@ -1,0 +1,317 @@
+{
+ "n_units": 80,
+ "benchmarks": [
+  "TravelPlanner",
+  "HammerBench",
+  "Toolathlon",
+  "WorkArena++",
+  "LongMemEval",
+  "Who&When",
+  "AgentHarm",
+  "AgencyBench"
+ ],
+ "incomplete_units": {
+  "A02": 0,
+  "A03": 0
+ },
+ "alpha_A01_A02_A03": 0.68,
+ "alpha_A02_A03": 0.62,
+ "alpha_A01_A02_A03_bootstrap95": [
+  0.6,
+  0.74
+ ],
+ "alpha_A02_A03_bootstrap95": [
+  0.56,
+  0.67
+ ],
+ "pairwise": {
+  "A01_A02": {
+   "n": 80,
+   "agreement_pct": 77.5,
+   "kappa": 0.69
+  },
+  "A01_A03": {
+   "n": 80,
+   "agreement_pct": 81.3,
+   "kappa": 0.74
+  },
+  "A02_A03": {
+   "n": 80,
+   "agreement_pct": 72.5,
+   "kappa": 0.62
+  }
+ },
+ "alpha_applicability_stage": 0.72,
+ "n_units_applicable_for_all": 39,
+ "alpha_status_stage": 0.76,
+ "status_agreement_with_A01": {
+  "A02": {
+   "n_both_applicable": 42,
+   "n_same_status": 34
+  },
+  "A03": {
+   "n_both_applicable": 42,
+   "n_same_status": 37
+  }
+ },
+ "field_all_three_agree": {
+  "Source identifier": 7,
+  "Temporal position": 5,
+  "State version": 7,
+  "Dependence relations": 6,
+  "Parameter provenance": 4,
+  "Propagable uncertainty representation": 6,
+  "Conflict representation": 4,
+  "Responsibility or commitment status": 7,
+  "Validity-change event": 3,
+  "Version lineage and rollback": 6
+ },
+ "proxies_on_subsample": {
+  "A01": {
+   "class_I": "8/8",
+   "class_C": "0/6",
+   "class_M": "3/4"
+  },
+  "A02": {
+   "class_I": "6/8",
+   "class_C": "1/5",
+   "class_M": "4/5"
+  },
+  "A03": {
+   "class_I": "8/8",
+   "class_C": "1/6",
+   "class_M": "5/5"
+  }
+ },
+ "confusion_rows_A01": {
+  "A02": {
+   "D": {
+    "D": 12,
+    "R": 3,
+    "U": 1,
+    "NA": 0
+   },
+   "R": {
+    "D": 1,
+    "R": 10,
+    "U": 1,
+    "NA": 2
+   },
+   "U": {
+    "D": 0,
+    "R": 2,
+    "U": 12,
+    "NA": 1
+   },
+   "NA": {
+    "D": 3,
+    "R": 3,
+    "U": 1,
+    "NA": 28
+   }
+  },
+  "A03": {
+   "D": {
+    "D": 16,
+    "R": 0,
+    "U": 0,
+    "NA": 0
+   },
+   "R": {
+    "D": 3,
+    "R": 9,
+    "U": 1,
+    "NA": 1
+   },
+   "U": {
+    "D": 0,
+    "R": 1,
+    "U": 12,
+    "NA": 2
+   },
+   "NA": {
+    "D": 1,
+    "R": 4,
+    "U": 2,
+    "NA": 28
+   }
+  }
+ },
+ "disagreements": [
+  {
+   "benchmark": "TravelPlanner",
+   "field": "Conflict representation",
+   "A01": "NA",
+   "A02": "D",
+   "A03": "NA"
+  },
+  {
+   "benchmark": "TravelPlanner",
+   "field": "Validity-change event",
+   "A01": "NA",
+   "A02": "D",
+   "A03": "R"
+  },
+  {
+   "benchmark": "HammerBench",
+   "field": "Parameter provenance",
+   "A01": "R",
+   "A02": "R",
+   "A03": "NA"
+  },
+  {
+   "benchmark": "HammerBench",
+   "field": "Propagable uncertainty representation",
+   "A01": "NA",
+   "A02": "U",
+   "A03": "U"
+  },
+  {
+   "benchmark": "HammerBench",
+   "field": "Conflict representation",
+   "A01": "NA",
+   "A02": "R",
+   "A03": "R"
+  },
+  {
+   "benchmark": "HammerBench",
+   "field": "Validity-change event",
+   "A01": "R",
+   "A02": "NA",
+   "A03": "D"
+  },
+  {
+   "benchmark": "HammerBench",
+   "field": "Version lineage and rollback",
+   "A01": "NA",
+   "A02": "R",
+   "A03": "D"
+  },
+  {
+   "benchmark": "Toolathlon",
+   "field": "Temporal position",
+   "A01": "D",
+   "A02": "U",
+   "A03": "D"
+  },
+  {
+   "benchmark": "Toolathlon",
+   "field": "Dependence relations",
+   "A01": "U",
+   "A02": "R",
+   "A03": "NA"
+  },
+  {
+   "benchmark": "Toolathlon",
+   "field": "Version lineage and rollback",
+   "A01": "NA",
+   "A02": "D",
+   "A03": "NA"
+  },
+  {
+   "benchmark": "WorkArena++",
+   "field": "Source identifier",
+   "A01": "D",
+   "A02": "R",
+   "A03": "D"
+  },
+  {
+   "benchmark": "WorkArena++",
+   "field": "Temporal position",
+   "A01": "R",
+   "A02": "D",
+   "A03": "D"
+  },
+  {
+   "benchmark": "WorkArena++",
+   "field": "State version",
+   "A01": "D",
+   "A02": "R",
+   "A03": "D"
+  },
+  {
+   "benchmark": "WorkArena++",
+   "field": "Validity-change event",
+   "A01": "NA",
+   "A02": "R",
+   "A03": "NA"
+  },
+  {
+   "benchmark": "LongMemEval",
+   "field": "Dependence relations",
+   "A01": "D",
+   "A02": "R",
+   "A03": "D"
+  },
+  {
+   "benchmark": "LongMemEval",
+   "field": "Parameter provenance",
+   "A01": "NA",
+   "A02": "NA",
+   "A03": "R"
+  },
+  {
+   "benchmark": "LongMemEval",
+   "field": "Conflict representation",
+   "A01": "R",
+   "A02": "NA",
+   "A03": "R"
+  },
+  {
+   "benchmark": "Who&When",
+   "field": "Propagable uncertainty representation",
+   "A01": "NA",
+   "A02": "NA",
+   "A03": "U"
+  },
+  {
+   "benchmark": "Who&When",
+   "field": "Conflict representation",
+   "A01": "U",
+   "A02": "U",
+   "A03": "R"
+  },
+  {
+   "benchmark": "Who&When",
+   "field": "Responsibility or commitment status",
+   "A01": "R",
+   "A02": "R",
+   "A03": "U"
+  },
+  {
+   "benchmark": "Who&When",
+   "field": "Validity-change event",
+   "A01": "U",
+   "A02": "U",
+   "A03": "NA"
+  },
+  {
+   "benchmark": "AgentHarm",
+   "field": "Parameter provenance",
+   "A01": "U",
+   "A02": "R",
+   "A03": "U"
+  },
+  {
+   "benchmark": "AgentHarm",
+   "field": "Validity-change event",
+   "A01": "NA",
+   "A02": "NA",
+   "A03": "R"
+  },
+  {
+   "benchmark": "AgencyBench",
+   "field": "Temporal position",
+   "A01": "R",
+   "A02": "U",
+   "A03": "D"
+  },
+  {
+   "benchmark": "AgencyBench",
+   "field": "Parameter provenance",
+   "A01": "U",
+   "A02": "NA",
+   "A03": "U"
+  }
+ ]
+}
