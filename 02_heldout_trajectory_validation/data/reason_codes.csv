@@ -1,0 +1,9 @@
+reason_code,definition,icm_class,frequency
+R1,"The decisive failure lies in internal generation, computation, selection, internally executed code processing, internal retrieval or replanning, and the operation does not meet the full conditions of any first-order diagnostic",C,67
+R2,The certainty or conclusion scope of an internal judgment exceeds the support boundary of the currently identifiable evidence,C,21
+R3,"External web, document or audio content, after being introduced, parsed or transcribed, did not form a representation usable later in the task",I,3
+R4,Internal processing applies a historical time point or version that does not match the current task,C,2
+R5,An internal result violates an explicit task constraint that can be checked independently,C,3
+R6,"The decisive error occurs directly in information acquisition, reception or parsing at the system boundary and does not meet the full conditions of any first-order diagnostic",I,1
+R7,"The public record is insufficient to distinguish a cross-boundary acquisition failure from an internal processing failure, and the case is conservatively retained as undecidable",U,2
+R8,"The public reference annotation is directly inconsistent with the visible task semantics, and the case is retained as undecidable under the evidence-first rule",U,1

@@ -1,0 +1,247 @@
+{
+ "source": "whowhen_heldout_coding_matrix_A01.csv",
+ "n_cases": 100,
+ "determinable": {
+  "k": 97,
+  "n": 100,
+  "pct": 97.0,
+  "wilson95": [
+   91.5,
+   99.0
+  ]
+ },
+ "class_distribution": {
+  "I": {
+   "k": 4,
+   "n": 97,
+   "pct": 4.1,
+   "wilson95": [
+    1.6,
+    10.1
+   ]
+  },
+  "C": {
+   "k": 93,
+   "n": 97,
+   "pct": 95.9,
+   "wilson95": [
+    89.9,
+    98.4
+   ]
+  },
+  "M": {
+   "k": 0,
+   "n": 97,
+   "pct": 0.0,
+   "wilson95": [
+    0.0,
+    3.8
+   ]
+  }
+ },
+ "strict_diagnostic_coverage": {
+  "k": 29,
+  "n": 97,
+  "pct": 29.9,
+  "wilson95": [
+   21.7,
+   39.6
+  ]
+ },
+ "first_order_constructs": {
+  "L1": {
+   "k": 21,
+   "n": 97,
+   "pct": 21.6,
+   "wilson95": [
+    14.6,
+    30.8
+   ]
+  },
+  "L2": {
+   "k": 0,
+   "n": 97,
+   "pct": 0.0,
+   "wilson95": [
+    0.0,
+    3.8
+   ]
+  },
+  "L3": {
+   "k": 3,
+   "n": 97,
+   "pct": 3.1,
+   "wilson95": [
+    1.1,
+    8.7
+   ]
+  },
+  "L4": {
+   "k": 2,
+   "n": 97,
+   "pct": 2.1,
+   "wilson95": [
+    0.6,
+    7.2
+   ]
+  },
+  "L5": {
+   "k": 3,
+   "n": 97,
+   "pct": 3.1,
+   "wilson95": [
+    1.1,
+    8.7
+   ]
+  },
+  "L6": {
+   "k": 0,
+   "n": 97,
+   "pct": 0.0,
+   "wilson95": [
+    0.0,
+    3.8
+   ]
+  }
+ },
+ "reference_quality": {
+  "consistent": 99,
+  "ambiguous": 1
+ },
+ "reason_codes": {
+  "R1": 67,
+  "R2": 21,
+  "R3": 3,
+  "R4": 2,
+  "R5": 3,
+  "R6": 1,
+  "R7": 2,
+  "R8": 1
+ },
+ "by_sample_group": {
+  "Algorithm-Generated": {
+   "n": 68,
+   "determinable": {
+    "k": 67,
+    "n": 68,
+    "pct": 98.5,
+    "wilson95": [
+     92.1,
+     99.7
+    ]
+   },
+   "I": 0,
+   "C": 67,
+   "M": 0,
+   "strict_coverage": {
+    "k": 21,
+    "n": 67,
+    "pct": 31.3,
+    "wilson95": [
+     21.5,
+     43.2
+    ]
+   }
+  },
+  "Hand-Crafted": {
+   "n": 32,
+   "determinable": {
+    "k": 30,
+    "n": 32,
+    "pct": 93.8,
+    "wilson95": [
+     79.9,
+     98.3
+    ]
+   },
+   "I": 4,
+   "C": 26,
+   "M": 0,
+   "strict_coverage": {
+    "k": 8,
+    "n": 30,
+    "pct": 26.7,
+    "wilson95": [
+     14.2,
+     44.4
+    ]
+   }
+  }
+ },
+ "fisher_class_by_group_p": 0.0079,
+ "fisher_coverage_by_group_p": 0.811,
+ "sensitivity": {
+  "exclude_ambiguous": {
+   "denominator": 99,
+   "determinable": {
+    "k": 97,
+    "n": 99,
+    "pct": 98.0,
+    "wilson95": [
+     92.9,
+     99.4
+    ]
+   },
+   "I": 4,
+   "C": 93,
+   "M": 0,
+   "strict_coverage": {
+    "k": 29,
+    "n": 97,
+    "pct": 29.9,
+    "wilson95": [
+     21.7,
+     39.6
+    ]
+   }
+  },
+  "boundary_to_C": {
+   "denominator": 100,
+   "determinable": {
+    "k": 99,
+    "n": 100,
+    "pct": 99.0,
+    "wilson95": [
+     94.6,
+     99.8
+    ]
+   },
+   "I": 4,
+   "C": 95,
+   "M": 0,
+   "strict_coverage": {
+    "k": 29,
+    "n": 99,
+    "pct": 29.3,
+    "wilson95": [
+     21.2,
+     38.9
+    ]
+   }
+  },
+  "all_to_C": {
+   "denominator": 100,
+   "determinable": {
+    "k": 100,
+    "n": 100,
+    "pct": 100.0,
+    "wilson95": [
+     96.3,
+     100.0
+    ]
+   },
+   "I": 4,
+   "C": 96,
+   "M": 0,
+   "strict_coverage": {
+    "k": 29,
+    "n": 100,
+    "pct": 29.0,
+    "wilson95": [
+     21.0,
+     38.5
+    ]
+   }
+  }
+ }
+}
