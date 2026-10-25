@@ -1,0 +1,119 @@
+{
+ "derivation_mismatches": [],
+ "table_D9": {
+  "analysis_sample_82": {
+   "n": 82,
+   "M_grant_adopted_submitted_solution": 67,
+   "new_answer_by_verifier": 6,
+   "no_grant": 9,
+   "independent_check_before_grant_yes_no_cannot_tell": "1/76/5",
+   "same_source_yes_no_cannot_tell": "59/17/6",
+   "grant_reason_agreement_of_both_sides": 54,
+   "overreach_assertion_before_grant": 27,
+   "L6": "54/76",
+   "L7": "21/67",
+   "source_coupled_structure": 32,
+   "L7_not_met": 6,
+   "L7_undeterminable": 8,
+   "L7_among_determinable": "21/59",
+   "correct_solution_discarded": 5
+  },
+  "all_86_including_4_excluded": {
+   "n": 86,
+   "M_grant_adopted_submitted_solution": 70,
+   "new_answer_by_verifier": 7,
+   "no_grant": 9,
+   "independent_check_before_grant_yes_no_cannot_tell": "1/80/5",
+   "same_source_yes_no_cannot_tell": "62/18/6",
+   "grant_reason_agreement_of_both_sides": 57,
+   "overreach_assertion_before_grant": 29,
+   "L6": "57/80",
+   "L7": "23/70",
+   "source_coupled_structure": 33,
+   "L7_not_met": 6,
+   "L7_undeterminable": 8,
+   "L7_among_determinable": "23/62",
+   "correct_solution_discarded": 7
+  },
+  "gpt-4_in_analysis_sample": {
+   "n": 48,
+   "M_grant_adopted_submitted_solution": 41,
+   "new_answer_by_verifier": 2,
+   "no_grant": 5,
+   "independent_check_before_grant_yes_no_cannot_tell": "1/44/3",
+   "same_source_yes_no_cannot_tell": "37/6/5",
+   "grant_reason_agreement_of_both_sides": 34,
+   "overreach_assertion_before_grant": 19,
+   "L6": "34/43",
+   "L7": "14/41",
+   "source_coupled_structure": 20,
+   "L7_not_met": 0,
+   "L7_undeterminable": 7,
+   "L7_among_determinable": "14/34",
+   "correct_solution_discarded": 3
+  },
+  "gpt-4o_in_analysis_sample": {
+   "n": 34,
+   "M_grant_adopted_submitted_solution": 26,
+   "new_answer_by_verifier": 4,
+   "no_grant": 4,
+   "independent_check_before_grant_yes_no_cannot_tell": "0/32/2",
+   "same_source_yes_no_cannot_tell": "22/11/1",
+   "grant_reason_agreement_of_both_sides": 20,
+   "overreach_assertion_before_grant": 8,
+   "L6": "20/33",
+   "L7": "7/26",
+   "source_coupled_structure": 12,
+   "L7_not_met": 6,
+   "L7_undeterminable": 1,
+   "L7_among_determinable": "7/25",
+   "correct_solution_discarded": 2
+  }
+ },
+ "excluded_from_analysis": [
+  "G13",
+  "G50",
+  "G81",
+  "G84"
+ ],
+ "adopted_by_grant_reason": {
+  "agreement_of_both_sides": 53,
+  "no_reason": 3,
+  "other_reason": 11
+ },
+ "L7_by_grant_reason": {
+  "agreement_of_both_sides": 21
+ },
+ "L7_by_assertion_type": {
+  "A": 7,
+  "B": 5,
+  "C": 7,
+  "D": 2
+ },
+ "adopted_with_overreach_assertion": {
+  "n": 26,
+  "L7": {
+   "1": 21,
+   "undeterminable": 5
+  }
+ },
+ "L7_if_source_coupled_structure_counted": "53/67",
+ "verifier_wrote_SOLUTION_FOUND": 73,
+ "correct_solution_discarded_cases": [
+  "G30",
+  "G43",
+  "G47",
+  "G66",
+  "G82"
+ ],
+ "perturbation_types": {
+  "critical thinking": 22,
+  "reversing operation": 10,
+  "adding operation": 10,
+  "distraction insertion": 10,
+  "numerical substitution": 9,
+  "integer-decimal-fraction conversion": 8,
+  "digit expansion": 7,
+  "problem understanding": 6
+ }
+}

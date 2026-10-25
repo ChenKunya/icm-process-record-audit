@@ -1,0 +1,6 @@
+case_id,item,value_before,value_after
+G62,Q6_overreach_assertion,none,A
+G62,Q6_message,,7
+G62,L7,source_coupled_structure,1
+G77,Q1_grant,adopted_submitted_solution,new_answer_by_verifier
+G77,L7,source_coupled_structure,not_applicable
