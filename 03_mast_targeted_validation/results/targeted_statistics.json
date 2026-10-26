@@ -1,0 +1,171 @@
+{
+ "derivation_mismatches": [],
+ "table_D9": {
+  "all_86": {
+   "n": 86,
+   "M_grant_adopted_submitted_solution": 70,
+   "new_answer_by_verifier": 7,
+   "no_grant": 9,
+   "independent_check_before_grant_yes_no_cannot_tell": "1/80/5",
+   "same_source_yes_no_cannot_tell": "62/18/6",
+   "grant_reason_agreement_of_both_sides": 57,
+   "overreach_assertion_before_grant": 29,
+   "L6": "57/80",
+   "L7": "23/70",
+   "source_coupled_structure": 33,
+   "L7_not_met": 6,
+   "L7_undeterminable": 8,
+   "L7_among_determinable": "23/62",
+   "correct_solution_discarded": 7
+  },
+  "gpt-4": {
+   "n": 49,
+   "M_grant_adopted_submitted_solution": 42,
+   "new_answer_by_verifier": 2,
+   "no_grant": 5,
+   "independent_check_before_grant_yes_no_cannot_tell": "1/45/3",
+   "same_source_yes_no_cannot_tell": "38/6/5",
+   "grant_reason_agreement_of_both_sides": 35,
+   "overreach_assertion_before_grant": 20,
+   "L6": "35/44",
+   "L7": "15/42",
+   "source_coupled_structure": 20,
+   "L7_not_met": 0,
+   "L7_undeterminable": 7,
+   "L7_among_determinable": "15/35",
+   "correct_solution_discarded": 3
+  },
+  "gpt-4o": {
+   "n": 37,
+   "M_grant_adopted_submitted_solution": 28,
+   "new_answer_by_verifier": 5,
+   "no_grant": 4,
+   "independent_check_before_grant_yes_no_cannot_tell": "0/35/2",
+   "same_source_yes_no_cannot_tell": "24/12/1",
+   "grant_reason_agreement_of_both_sides": 22,
+   "overreach_assertion_before_grant": 9,
+   "L6": "22/36",
+   "L7": "8/28",
+   "source_coupled_structure": 13,
+   "L7_not_met": 6,
+   "L7_undeterminable": 1,
+   "L7_among_determinable": "8/27",
+   "correct_solution_discarded": 4
+  },
+  "M_grant_70": {
+   "n": 70,
+   "M_grant_adopted_submitted_solution": 70,
+   "new_answer_by_verifier": 0,
+   "no_grant": 0,
+   "independent_check_before_grant_yes_no_cannot_tell": "0/65/5",
+   "same_source_yes_no_cannot_tell": "61/4/5",
+   "grant_reason_agreement_of_both_sides": 56,
+   "overreach_assertion_before_grant": 28,
+   "L6": "56/65",
+   "L7": "23/70",
+   "source_coupled_structure": 33,
+   "L7_not_met": 6,
+   "L7_undeterminable": 8,
+   "L7_among_determinable": "23/62",
+   "correct_solution_discarded": 5
+  }
+ },
+ "scope_differences_all_86_vs_M_grant_70": {
+  "grant_reason_agreement_of_both_sides_without_M_grant": [
+   "G77"
+  ],
+  "overreach_assertion_without_M_grant": [
+   "G18"
+  ],
+  "independent_check_yes_without_M_grant": [
+   "G29"
+  ],
+  "L6_holds_without_M_grant": [
+   "G77"
+  ]
+ },
+ "table_D10": {
+  "revised_type_A_wording": {
+   "L7": "23/70",
+   "L7_percent": 32.9,
+   "L7_wilson_95": [
+    23.0,
+    44.5
+   ],
+   "source_coupled_structure": 33,
+   "L7_not_met": 6,
+   "L7_undeterminable": 8,
+   "L7_among_determinable": "23/62",
+   "L7_among_determinable_percent": 37.1,
+   "L7_among_agreement_based_grants": "23/56",
+   "L7_among_agreement_based_grants_percent": 41.1
+  },
+  "initial_type_A_wording": {
+   "L7": "31/70",
+   "L7_percent": 44.3,
+   "L7_wilson_95": [
+    33.2,
+    55.9
+   ],
+   "source_coupled_structure": 25,
+   "L7_not_met": 6,
+   "L7_undeterminable": 8,
+   "L7_among_determinable": "31/62",
+   "L7_among_determinable_percent": 50.0,
+   "L7_among_agreement_based_grants": "31/56",
+   "L7_among_agreement_based_grants_percent": 55.4
+  },
+  "recoded_from_A_to_none": [
+   "G01",
+   "G09",
+   "G20",
+   "G31",
+   "G40",
+   "G44",
+   "G46",
+   "G49"
+  ]
+ },
+ "adopted_by_grant_reason": {
+  "agreement_of_both_sides": 56,
+  "no_reason": 3,
+  "other_reason": 11
+ },
+ "L7_by_grant_reason": {
+  "agreement_of_both_sides": 23
+ },
+ "L7_by_assertion_type": {
+  "A": 8,
+  "B": 5,
+  "C": 8,
+  "D": 2
+ },
+ "adopted_with_overreach_assertion": {
+  "n": 28,
+  "L7": {
+   "1": 23,
+   "undeterminable": 5
+  }
+ },
+ "L7_if_source_coupled_structure_counted": "56/70",
+ "verifier_wrote_SOLUTION_FOUND": 77,
+ "correct_solution_discarded_cases": [
+  "G30",
+  "G43",
+  "G47",
+  "G66",
+  "G81",
+  "G82",
+  "G84"
+ ],
+ "perturbation_types": {
+  "critical thinking": 22,
+  "adding operation": 12,
+  "reversing operation": 11,
+  "distraction insertion": 10,
+  "numerical substitution": 9,
+  "integer-decimal-fraction conversion": 8,
+  "digit expansion": 8,
+  "problem understanding": 6
+ }
+}
