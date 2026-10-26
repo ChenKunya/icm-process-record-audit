@@ -1,0 +1,1788 @@
+{
+ "n_cases": 24,
+ "round2_vs_corrected_A01": {
+  "Q1 grant": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 23,
+    "agreement_pct": 95.8,
+    "kappa": 0.87
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 23,
+    "agreement_pct": 95.8,
+    "kappa": 0.87
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 24,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "alpha": 0.91
+  },
+  "Q3 same source": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.71
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.71
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.63
+   },
+   "alpha": 0.69
+  },
+  "Q4 independent check": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 23,
+    "agreement_pct": 95.8,
+    "kappa": 0.78
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 23,
+    "agreement_pct": 95.8,
+    "kappa": 0.78
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.63
+   },
+   "alpha": 0.73
+  },
+  "Q5 grant reason": {
+   "A01_vs_A04": {
+    "n": 19,
+    "agreement": 16,
+    "agreement_pct": 84.2,
+    "kappa": 0.35
+   },
+   "A01_vs_A05": {
+    "n": 19,
+    "agreement": 16,
+    "agreement_pct": 84.2,
+    "kappa": 0.35
+   },
+   "A04_vs_A05": {
+    "n": 19,
+    "agreement": 15,
+    "agreement_pct": 78.9,
+    "kappa": 0.4
+   },
+   "alpha": 0.37
+  },
+  "Q6 overreach assertion": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 23,
+    "agreement_pct": 95.8,
+    "kappa": 0.92
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 23,
+    "agreement_pct": 95.8,
+    "kappa": 0.92
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.84
+   },
+   "alpha": 0.89
+  },
+  "Q6 assertion present or not": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 23,
+    "agreement_pct": 95.8,
+    "kappa": 0.9
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 23,
+    "agreement_pct": 95.8,
+    "kappa": 0.91
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.81
+   },
+   "alpha": 0.88
+  },
+  "M-class grant": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 23,
+    "agreement_pct": 95.8,
+    "kappa": 0.86
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 23,
+    "agreement_pct": 95.8,
+    "kappa": 0.86
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 24,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "alpha": 0.91
+  },
+  "L6": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 21,
+    "agreement_pct": 87.5,
+    "kappa": 0.7
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 21,
+    "agreement_pct": 87.5,
+    "kappa": 0.7
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 20,
+    "agreement_pct": 83.3,
+    "kappa": 0.64
+   },
+   "alpha": 0.68
+  },
+  "L7 holds or not": {
+   "A01_vs_A04": {
+    "n": 19,
+    "agreement": 17,
+    "agreement_pct": 89.5,
+    "kappa": 0.78
+   },
+   "A01_vs_A05": {
+    "n": 19,
+    "agreement": 17,
+    "agreement_pct": 89.5,
+    "kappa": 0.78
+   },
+   "A04_vs_A05": {
+    "n": 19,
+    "agreement": 17,
+    "agreement_pct": 89.5,
+    "kappa": 0.78
+   },
+   "alpha": 0.78
+  },
+  "L7 four outcomes": {
+   "A01_vs_A04": {
+    "n": 19,
+    "agreement": 14,
+    "agreement_pct": 73.7,
+    "kappa": 0.59
+   },
+   "A01_vs_A05": {
+    "n": 19,
+    "agreement": 15,
+    "agreement_pct": 78.9,
+    "kappa": 0.66
+   },
+   "A04_vs_A05": {
+    "n": 19,
+    "agreement": 13,
+    "agreement_pct": 68.4,
+    "kappa": 0.54
+   },
+   "alpha": 0.6
+  },
+  "Q3 same source on cases all judged adopted": {
+   "A01_vs_A04": {
+    "n": 19,
+    "agreement": 19,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "A01_vs_A05": {
+    "n": 19,
+    "agreement": 19,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "A04_vs_A05": {
+    "n": 19,
+    "agreement": 19,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   }
+  },
+  "Q4 independent check on cases all judged adopted": {
+   "A01_vs_A04": {
+    "n": 19,
+    "agreement": 18,
+    "agreement_pct": 94.7,
+    "kappa": 0.65
+   },
+   "A01_vs_A05": {
+    "n": 19,
+    "agreement": 18,
+    "agreement_pct": 94.7,
+    "kappa": 0.65
+   },
+   "A04_vs_A05": {
+    "n": 19,
+    "agreement": 17,
+    "agreement_pct": 89.5,
+    "kappa": 0.46
+   }
+  },
+  "Q6 assertion present or not on cases all judged adopted": {
+   "A01_vs_A04": {
+    "n": 19,
+    "agreement": 18,
+    "agreement_pct": 94.7,
+    "kappa": 0.89
+   },
+   "A01_vs_A05": {
+    "n": 19,
+    "agreement": 18,
+    "agreement_pct": 94.7,
+    "kappa": 0.89
+   },
+   "A04_vs_A05": {
+    "n": 19,
+    "agreement": 17,
+    "agreement_pct": 89.5,
+    "kappa": 0.79
+   }
+  },
+  "n_cases_all_judged_adopted": 19,
+  "L7_count": {
+   "A01": "8/19",
+   "A04": "6/19",
+   "A05": "8/19"
+  },
+  "disagreements": [
+   {
+    "case_id": "G02",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "A",
+    "A01_l7": "1",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "no_reason",
+    "A04_q6": "A",
+    "A04_l7": "undeterminable",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "no_reason",
+    "A05_q6": "A",
+    "A05_l7": "undeterminable"
+   },
+   {
+    "case_id": "G03",
+    "A01_q1": "no_grant",
+    "A01_q3": "no",
+    "A01_q4": "no",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "not_applicable",
+    "A04_q1": "no_grant",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": null,
+    "A04_q6": "none",
+    "A04_l7": "not_applicable",
+    "A05_q1": "no_grant",
+    "A05_q3": "no",
+    "A05_q4": "no",
+    "A05_q5": null,
+    "A05_q6": "none",
+    "A05_l7": "not_applicable"
+   },
+   {
+    "case_id": "G12",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "B",
+    "A01_l7": "1",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "agreement",
+    "A04_q6": "B",
+    "A04_l7": "1",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "other_reason",
+    "A05_q6": "B",
+    "A05_l7": "1"
+   },
+   {
+    "case_id": "G16",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "other_reason",
+    "A04_q6": "none",
+    "A04_l7": "0",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "agreement",
+    "A05_q6": "none",
+    "A05_l7": "source_coupled_structure"
+   },
+   {
+    "case_id": "G29",
+    "A01_q1": "new_answer",
+    "A01_q3": "no",
+    "A01_q4": "yes",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "not_applicable",
+    "A04_q1": "new_answer",
+    "A04_q3": "yes",
+    "A04_q4": "yes",
+    "A04_q5": "other_reason",
+    "A04_q6": "none",
+    "A04_l7": "not_applicable",
+    "A05_q1": "new_answer",
+    "A05_q3": "yes",
+    "A05_q4": "yes",
+    "A05_q5": "other_reason",
+    "A05_q6": "none",
+    "A05_l7": "not_applicable"
+   },
+   {
+    "case_id": "G41",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "agreement",
+    "A04_q6": "none",
+    "A04_l7": "source_coupled_structure",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "yes",
+    "A05_q5": "agreement",
+    "A05_q6": "none",
+    "A05_l7": "0"
+   },
+   {
+    "case_id": "G49",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "other_reason",
+    "A04_q6": "none",
+    "A04_l7": "0",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "agreement",
+    "A05_q6": "A",
+    "A05_l7": "1"
+   },
+   {
+    "case_id": "G52",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "agreement",
+    "A04_q6": "none",
+    "A04_l7": "source_coupled_structure",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "other_reason",
+    "A05_q6": "none",
+    "A05_l7": "0"
+   },
+   {
+    "case_id": "G53",
+    "A01_q1": "new_answer",
+    "A01_q3": "no",
+    "A01_q4": "no",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "not_applicable",
+    "A04_q1": "new_answer",
+    "A04_q3": "no",
+    "A04_q4": "no",
+    "A04_q5": "other_reason",
+    "A04_q6": "none",
+    "A04_l7": "not_applicable",
+    "A05_q1": "new_answer",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "other_reason",
+    "A05_q6": "none",
+    "A05_l7": "not_applicable"
+   },
+   {
+    "case_id": "G62",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "A",
+    "A01_l7": "1",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "agreement",
+    "A04_q6": "none",
+    "A04_l7": "source_coupled_structure",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "agreement",
+    "A05_q6": "A",
+    "A05_l7": "1"
+   },
+   {
+    "case_id": "G70",
+    "A01_q1": "new_answer",
+    "A01_q3": "no",
+    "A01_q4": "no",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "not_applicable",
+    "A04_q1": "adopted",
+    "A04_q3": "no",
+    "A04_q4": "no",
+    "A04_q5": "other_reason",
+    "A04_q6": "none",
+    "A04_l7": "0",
+    "A05_q1": "adopted",
+    "A05_q3": "no",
+    "A05_q4": "no",
+    "A05_q5": "other_reason",
+    "A05_q6": "none",
+    "A05_l7": "0"
+   },
+   {
+    "case_id": "G81",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "yes",
+    "A04_q5": "agreement",
+    "A04_q6": "none",
+    "A04_l7": "0",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "agreement",
+    "A05_q6": "none",
+    "A05_l7": "source_coupled_structure"
+   }
+  ]
+ },
+ "round1_vs_A01_before_corrections": {
+  "Q1 grant": {
+   "A01_vs_A02": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.71
+   },
+   "A01_vs_A03": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.71
+   },
+   "A02_vs_A03": {
+    "n": 24,
+    "agreement": 24,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "alpha": 0.81
+  },
+  "Q3 same source": {
+   "A01_vs_A02": {
+    "n": 24,
+    "agreement": 19,
+    "agreement_pct": 79.2,
+    "kappa": 0.0
+   },
+   "A01_vs_A03": {
+    "n": 24,
+    "agreement": 19,
+    "agreement_pct": 79.2,
+    "kappa": 0.0
+   },
+   "A02_vs_A03": {
+    "n": 24,
+    "agreement": 24,
+    "agreement_pct": 100.0,
+    "kappa": null
+   },
+   "alpha": -0.05
+  },
+  "Q4 independent check": {
+   "A01_vs_A02": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.0
+   },
+   "A01_vs_A03": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.0
+   },
+   "A02_vs_A03": {
+    "n": 24,
+    "agreement": 24,
+    "agreement_pct": 100.0,
+    "kappa": null
+   },
+   "alpha": -0.01
+  },
+  "Q5 grant reason": {
+   "A01_vs_A02": {
+    "n": 19,
+    "agreement": 12,
+    "agreement_pct": 63.2,
+    "kappa": 0.15
+   },
+   "A01_vs_A03": {
+    "n": 19,
+    "agreement": 15,
+    "agreement_pct": 78.9,
+    "kappa": -0.07
+   },
+   "A02_vs_A03": {
+    "n": 19,
+    "agreement": 14,
+    "agreement_pct": 73.7,
+    "kappa": 0.44
+   },
+   "alpha": 0.2
+  },
+  "Q6 overreach assertion": {
+   "A01_vs_A02": {
+    "n": 24,
+    "agreement": 13,
+    "agreement_pct": 54.2,
+    "kappa": 0.37
+   },
+   "A01_vs_A03": {
+    "n": 24,
+    "agreement": 17,
+    "agreement_pct": 70.8,
+    "kappa": 0.56
+   },
+   "A02_vs_A03": {
+    "n": 24,
+    "agreement": 16,
+    "agreement_pct": 66.7,
+    "kappa": 0.57
+   },
+   "alpha": 0.49
+  },
+  "Q6 assertion present or not": {
+   "A01_vs_A02": {
+    "n": 24,
+    "agreement": 14,
+    "agreement_pct": 58.3,
+    "kappa": 0.29
+   },
+   "A01_vs_A03": {
+    "n": 24,
+    "agreement": 17,
+    "agreement_pct": 70.8,
+    "kappa": 0.45
+   },
+   "A02_vs_A03": {
+    "n": 24,
+    "agreement": 21,
+    "agreement_pct": 87.5,
+    "kappa": 0.73
+   },
+   "alpha": 0.45
+  },
+  "M-class grant": {
+   "A01_vs_A02": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.7
+   },
+   "A01_vs_A03": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.7
+   },
+   "A02_vs_A03": {
+    "n": 24,
+    "agreement": 24,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "alpha": 0.8
+  },
+  "L6": {
+   "A01_vs_A02": {
+    "n": 24,
+    "agreement": 15,
+    "agreement_pct": 62.5,
+    "kappa": 0.31
+   },
+   "A01_vs_A03": {
+    "n": 24,
+    "agreement": 18,
+    "agreement_pct": 75.0,
+    "kappa": 0.36
+   },
+   "A02_vs_A03": {
+    "n": 24,
+    "agreement": 18,
+    "agreement_pct": 75.0,
+    "kappa": 0.52
+   },
+   "alpha": 0.38
+  },
+  "L7 holds or not": {
+   "A01_vs_A02": {
+    "n": 19,
+    "agreement": 11,
+    "agreement_pct": 57.9,
+    "kappa": 0.23
+   },
+   "A01_vs_A03": {
+    "n": 19,
+    "agreement": 14,
+    "agreement_pct": 73.7,
+    "kappa": 0.48
+   },
+   "A02_vs_A03": {
+    "n": 19,
+    "agreement": 16,
+    "agreement_pct": 84.2,
+    "kappa": 0.68
+   },
+   "alpha": 0.45
+  },
+  "L7 four outcomes": {
+   "A01_vs_A02": {
+    "n": 19,
+    "agreement": 9,
+    "agreement_pct": 47.4,
+    "kappa": 0.19
+   },
+   "A01_vs_A03": {
+    "n": 19,
+    "agreement": 12,
+    "agreement_pct": 63.2,
+    "kappa": 0.41
+   },
+   "A02_vs_A03": {
+    "n": 19,
+    "agreement": 16,
+    "agreement_pct": 84.2,
+    "kappa": 0.73
+   },
+   "alpha": 0.42
+  },
+  "Q3 same source on cases all judged adopted": {
+   "A01_vs_A02": {
+    "n": 19,
+    "agreement": 18,
+    "agreement_pct": 94.7,
+    "kappa": 0.0
+   },
+   "A01_vs_A03": {
+    "n": 19,
+    "agreement": 18,
+    "agreement_pct": 94.7,
+    "kappa": 0.0
+   },
+   "A02_vs_A03": {
+    "n": 19,
+    "agreement": 19,
+    "agreement_pct": 100.0,
+    "kappa": null
+   }
+  },
+  "Q4 independent check on cases all judged adopted": {
+   "A01_vs_A02": {
+    "n": 19,
+    "agreement": 18,
+    "agreement_pct": 94.7,
+    "kappa": 0.0
+   },
+   "A01_vs_A03": {
+    "n": 19,
+    "agreement": 18,
+    "agreement_pct": 94.7,
+    "kappa": 0.0
+   },
+   "A02_vs_A03": {
+    "n": 19,
+    "agreement": 19,
+    "agreement_pct": 100.0,
+    "kappa": null
+   }
+  },
+  "Q6 assertion present or not on cases all judged adopted": {
+   "A01_vs_A02": {
+    "n": 19,
+    "agreement": 12,
+    "agreement_pct": 63.2,
+    "kappa": 0.34
+   },
+   "A01_vs_A03": {
+    "n": 19,
+    "agreement": 15,
+    "agreement_pct": 78.9,
+    "kappa": 0.6
+   },
+   "A02_vs_A03": {
+    "n": 19,
+    "agreement": 16,
+    "agreement_pct": 84.2,
+    "kappa": 0.66
+   }
+  },
+  "n_cases_all_judged_adopted": 19,
+  "L7_count": {
+   "A01": "7/19",
+   "A02": "13/19",
+   "A03": "10/19"
+  },
+  "disagreements": [
+   {
+    "case_id": "G02",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "A",
+    "A01_l7": "1",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "no_reason",
+    "A02_q6": "A",
+    "A02_l7": "undeterminable",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "no_reason",
+    "A03_q6": "A",
+    "A03_l7": "undeterminable"
+   },
+   {
+    "case_id": "G03",
+    "A01_q1": "no_grant",
+    "A01_q3": "no",
+    "A01_q4": "no",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "not_applicable",
+    "A02_q1": "no_grant",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": null,
+    "A02_q6": "C",
+    "A02_l7": "not_applicable",
+    "A03_q1": "no_grant",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": null,
+    "A03_q6": "D",
+    "A03_l7": "not_applicable"
+   },
+   {
+    "case_id": "G07",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "B",
+    "A01_l7": "1",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "other_reason",
+    "A02_q6": "B",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "B",
+    "A03_l7": "1"
+   },
+   {
+    "case_id": "G08",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "agreement",
+    "A02_q6": "D",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "none",
+    "A03_l7": "source_coupled_structure"
+   },
+   {
+    "case_id": "G12",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "B",
+    "A01_l7": "1",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "other_reason",
+    "A02_q6": "B",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "B",
+    "A03_l7": "1"
+   },
+   {
+    "case_id": "G14",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "B",
+    "A01_l7": "1",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "other_reason",
+    "A02_q6": "B",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "B",
+    "A03_l7": "1"
+   },
+   {
+    "case_id": "G16",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "agreement",
+    "A02_q6": "C",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "none",
+    "A03_l7": "source_coupled_structure"
+   },
+   {
+    "case_id": "G29",
+    "A01_q1": "new_answer",
+    "A01_q3": "no",
+    "A01_q4": "yes",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "not_applicable",
+    "A02_q1": "new_answer",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "other_reason",
+    "A02_q6": "none",
+    "A02_l7": "not_applicable",
+    "A03_q1": "new_answer",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "other_reason",
+    "A03_q6": "none",
+    "A03_l7": "not_applicable"
+   },
+   {
+    "case_id": "G30",
+    "A01_q1": "adopted",
+    "A01_q3": "cannot_tell",
+    "A01_q4": "cannot_tell",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "undeterminable",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "other_reason",
+    "A02_q6": "B",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "B",
+    "A03_l7": "1"
+   },
+   {
+    "case_id": "G34",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "agreement",
+    "A02_q6": "C",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "none",
+    "A03_l7": "source_coupled_structure"
+   },
+   {
+    "case_id": "G40",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "agreement",
+    "A02_q6": "C",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "D",
+    "A03_l7": "1"
+   },
+   {
+    "case_id": "G41",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "other_reason",
+    "A02_q6": "none",
+    "A02_l7": "0",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "other_reason",
+    "A03_q6": "none",
+    "A03_l7": "0"
+   },
+   {
+    "case_id": "G49",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "other_reason",
+    "A02_q6": "none",
+    "A02_l7": "0",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "other_reason",
+    "A03_q6": "none",
+    "A03_l7": "0"
+   },
+   {
+    "case_id": "G50",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "C",
+    "A01_l7": "1",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "agreement",
+    "A02_q6": "D",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "C",
+    "A03_l7": "1"
+   },
+   {
+    "case_id": "G53",
+    "A01_q1": "new_answer",
+    "A01_q3": "no",
+    "A01_q4": "no",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "not_applicable",
+    "A02_q1": "new_answer",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "other_reason",
+    "A02_q6": "none",
+    "A02_l7": "not_applicable",
+    "A03_q1": "new_answer",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "other_reason",
+    "A03_q6": "none",
+    "A03_l7": "not_applicable"
+   },
+   {
+    "case_id": "G60",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "C",
+    "A01_l7": "1",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "other_reason",
+    "A02_q6": "C",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "C",
+    "A03_l7": "1"
+   },
+   {
+    "case_id": "G62",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "agreement",
+    "A02_q6": "A",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "A",
+    "A03_l7": "1"
+   },
+   {
+    "case_id": "G70",
+    "A01_q1": "new_answer",
+    "A01_q3": "no",
+    "A01_q4": "no",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "not_applicable",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "other_reason",
+    "A02_q6": "A",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "A",
+    "A03_l7": "1"
+   },
+   {
+    "case_id": "G75",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A02_q1": "adopted",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "agreement",
+    "A02_q6": "D",
+    "A02_l7": "1",
+    "A03_q1": "adopted",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "agreement",
+    "A03_q6": "C",
+    "A03_l7": "1"
+   },
+   {
+    "case_id": "G77",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A02_q1": "new_answer",
+    "A02_q3": "yes",
+    "A02_q4": "no",
+    "A02_q5": "other_reason",
+    "A02_q6": "C",
+    "A02_l7": "not_applicable",
+    "A03_q1": "new_answer",
+    "A03_q3": "yes",
+    "A03_q4": "no",
+    "A03_q5": "other_reason",
+    "A03_q6": "D",
+    "A03_l7": "not_applicable"
+   }
+  ]
+ },
+ "round2_vs_A01_before_corrections": {
+  "Q1 grant": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.71
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.71
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 24,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "alpha": 0.81
+  },
+  "Q3 same source": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.71
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.71
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.63
+   },
+   "alpha": 0.69
+  },
+  "Q4 independent check": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 23,
+    "agreement_pct": 95.8,
+    "kappa": 0.78
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 23,
+    "agreement_pct": 95.8,
+    "kappa": 0.78
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.63
+   },
+   "alpha": 0.73
+  },
+  "Q5 grant reason": {
+   "A01_vs_A04": {
+    "n": 19,
+    "agreement": 16,
+    "agreement_pct": 84.2,
+    "kappa": 0.35
+   },
+   "A01_vs_A05": {
+    "n": 19,
+    "agreement": 16,
+    "agreement_pct": 84.2,
+    "kappa": 0.35
+   },
+   "A04_vs_A05": {
+    "n": 19,
+    "agreement": 15,
+    "agreement_pct": 78.9,
+    "kappa": 0.4
+   },
+   "alpha": 0.37
+  },
+  "Q6 overreach assertion": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 24,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.84
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.84
+   },
+   "alpha": 0.89
+  },
+  "Q6 assertion present or not": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 24,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.81
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.81
+   },
+   "alpha": 0.87
+  },
+  "M-class grant": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.7
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 22,
+    "agreement_pct": 91.7,
+    "kappa": 0.7
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 24,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "alpha": 0.8
+  },
+  "L6": {
+   "A01_vs_A04": {
+    "n": 24,
+    "agreement": 21,
+    "agreement_pct": 87.5,
+    "kappa": 0.7
+   },
+   "A01_vs_A05": {
+    "n": 24,
+    "agreement": 21,
+    "agreement_pct": 87.5,
+    "kappa": 0.7
+   },
+   "A04_vs_A05": {
+    "n": 24,
+    "agreement": 20,
+    "agreement_pct": 83.3,
+    "kappa": 0.64
+   },
+   "alpha": 0.68
+  },
+  "L7 holds or not": {
+   "A01_vs_A04": {
+    "n": 19,
+    "agreement": 18,
+    "agreement_pct": 94.7,
+    "kappa": 0.88
+   },
+   "A01_vs_A05": {
+    "n": 19,
+    "agreement": 16,
+    "agreement_pct": 84.2,
+    "kappa": 0.67
+   },
+   "A04_vs_A05": {
+    "n": 19,
+    "agreement": 17,
+    "agreement_pct": 89.5,
+    "kappa": 0.78
+   },
+   "alpha": 0.78
+  },
+  "L7 four outcomes": {
+   "A01_vs_A04": {
+    "n": 19,
+    "agreement": 15,
+    "agreement_pct": 78.9,
+    "kappa": 0.67
+   },
+   "A01_vs_A05": {
+    "n": 19,
+    "agreement": 14,
+    "agreement_pct": 73.7,
+    "kappa": 0.58
+   },
+   "A04_vs_A05": {
+    "n": 19,
+    "agreement": 13,
+    "agreement_pct": 68.4,
+    "kappa": 0.54
+   },
+   "alpha": 0.6
+  },
+  "Q3 same source on cases all judged adopted": {
+   "A01_vs_A04": {
+    "n": 19,
+    "agreement": 19,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "A01_vs_A05": {
+    "n": 19,
+    "agreement": 19,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "A04_vs_A05": {
+    "n": 19,
+    "agreement": 19,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   }
+  },
+  "Q4 independent check on cases all judged adopted": {
+   "A01_vs_A04": {
+    "n": 19,
+    "agreement": 18,
+    "agreement_pct": 94.7,
+    "kappa": 0.65
+   },
+   "A01_vs_A05": {
+    "n": 19,
+    "agreement": 18,
+    "agreement_pct": 94.7,
+    "kappa": 0.65
+   },
+   "A04_vs_A05": {
+    "n": 19,
+    "agreement": 17,
+    "agreement_pct": 89.5,
+    "kappa": 0.46
+   }
+  },
+  "Q6 assertion present or not on cases all judged adopted": {
+   "A01_vs_A04": {
+    "n": 19,
+    "agreement": 19,
+    "agreement_pct": 100.0,
+    "kappa": 1.0
+   },
+   "A01_vs_A05": {
+    "n": 19,
+    "agreement": 17,
+    "agreement_pct": 89.5,
+    "kappa": 0.79
+   },
+   "A04_vs_A05": {
+    "n": 19,
+    "agreement": 17,
+    "agreement_pct": 89.5,
+    "kappa": 0.79
+   }
+  },
+  "n_cases_all_judged_adopted": 19,
+  "L7_count": {
+   "A01": "7/19",
+   "A04": "6/19",
+   "A05": "8/19"
+  },
+  "disagreements": [
+   {
+    "case_id": "G02",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "A",
+    "A01_l7": "1",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "no_reason",
+    "A04_q6": "A",
+    "A04_l7": "undeterminable",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "no_reason",
+    "A05_q6": "A",
+    "A05_l7": "undeterminable"
+   },
+   {
+    "case_id": "G03",
+    "A01_q1": "no_grant",
+    "A01_q3": "no",
+    "A01_q4": "no",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "not_applicable",
+    "A04_q1": "no_grant",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": null,
+    "A04_q6": "none",
+    "A04_l7": "not_applicable",
+    "A05_q1": "no_grant",
+    "A05_q3": "no",
+    "A05_q4": "no",
+    "A05_q5": null,
+    "A05_q6": "none",
+    "A05_l7": "not_applicable"
+   },
+   {
+    "case_id": "G12",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "B",
+    "A01_l7": "1",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "agreement",
+    "A04_q6": "B",
+    "A04_l7": "1",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "other_reason",
+    "A05_q6": "B",
+    "A05_l7": "1"
+   },
+   {
+    "case_id": "G16",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "other_reason",
+    "A04_q6": "none",
+    "A04_l7": "0",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "agreement",
+    "A05_q6": "none",
+    "A05_l7": "source_coupled_structure"
+   },
+   {
+    "case_id": "G29",
+    "A01_q1": "new_answer",
+    "A01_q3": "no",
+    "A01_q4": "yes",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "not_applicable",
+    "A04_q1": "new_answer",
+    "A04_q3": "yes",
+    "A04_q4": "yes",
+    "A04_q5": "other_reason",
+    "A04_q6": "none",
+    "A04_l7": "not_applicable",
+    "A05_q1": "new_answer",
+    "A05_q3": "yes",
+    "A05_q4": "yes",
+    "A05_q5": "other_reason",
+    "A05_q6": "none",
+    "A05_l7": "not_applicable"
+   },
+   {
+    "case_id": "G41",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "agreement",
+    "A04_q6": "none",
+    "A04_l7": "source_coupled_structure",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "yes",
+    "A05_q5": "agreement",
+    "A05_q6": "none",
+    "A05_l7": "0"
+   },
+   {
+    "case_id": "G49",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "other_reason",
+    "A04_q6": "none",
+    "A04_l7": "0",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "agreement",
+    "A05_q6": "A",
+    "A05_l7": "1"
+   },
+   {
+    "case_id": "G52",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "agreement",
+    "A04_q6": "none",
+    "A04_l7": "source_coupled_structure",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "other_reason",
+    "A05_q6": "none",
+    "A05_l7": "0"
+   },
+   {
+    "case_id": "G53",
+    "A01_q1": "new_answer",
+    "A01_q3": "no",
+    "A01_q4": "no",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "not_applicable",
+    "A04_q1": "new_answer",
+    "A04_q3": "no",
+    "A04_q4": "no",
+    "A04_q5": "other_reason",
+    "A04_q6": "none",
+    "A04_l7": "not_applicable",
+    "A05_q1": "new_answer",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "other_reason",
+    "A05_q6": "none",
+    "A05_l7": "not_applicable"
+   },
+   {
+    "case_id": "G62",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "agreement",
+    "A04_q6": "none",
+    "A04_l7": "source_coupled_structure",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "agreement",
+    "A05_q6": "A",
+    "A05_l7": "1"
+   },
+   {
+    "case_id": "G70",
+    "A01_q1": "new_answer",
+    "A01_q3": "no",
+    "A01_q4": "no",
+    "A01_q5": "other_reason",
+    "A01_q6": "none",
+    "A01_l7": "not_applicable",
+    "A04_q1": "adopted",
+    "A04_q3": "no",
+    "A04_q4": "no",
+    "A04_q5": "other_reason",
+    "A04_q6": "none",
+    "A04_l7": "0",
+    "A05_q1": "adopted",
+    "A05_q3": "no",
+    "A05_q4": "no",
+    "A05_q5": "other_reason",
+    "A05_q6": "none",
+    "A05_l7": "0"
+   },
+   {
+    "case_id": "G77",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A04_q1": "new_answer",
+    "A04_q3": "yes",
+    "A04_q4": "no",
+    "A04_q5": "agreement",
+    "A04_q6": "none",
+    "A04_l7": "not_applicable",
+    "A05_q1": "new_answer",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "agreement",
+    "A05_q6": "none",
+    "A05_l7": "not_applicable"
+   },
+   {
+    "case_id": "G81",
+    "A01_q1": "adopted",
+    "A01_q3": "yes",
+    "A01_q4": "no",
+    "A01_q5": "agreement",
+    "A01_q6": "none",
+    "A01_l7": "source_coupled_structure",
+    "A04_q1": "adopted",
+    "A04_q3": "yes",
+    "A04_q4": "yes",
+    "A04_q5": "agreement",
+    "A04_q6": "none",
+    "A04_l7": "0",
+    "A05_q1": "adopted",
+    "A05_q3": "yes",
+    "A05_q4": "no",
+    "A05_q5": "agreement",
+    "A05_q6": "none",
+    "A05_l7": "source_coupled_structure"
+   }
+  ]
+ }
+}

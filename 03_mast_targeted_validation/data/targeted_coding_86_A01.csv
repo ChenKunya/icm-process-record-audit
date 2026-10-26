@@ -1,0 +1,87 @@
+case_id,Q1_grant,Q2_correct_solution_rejected,Q3_same_source,Q4_independent_check,Q5_grant_reason,Q6_overreach_assertion,Q6_message,M_grant,correct_solution_discarded,L6,L7,revision_note,coder_id
+G01,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,Recoded on 2026-10-21 in the re-check of Type A assertions under the tightened wording (Appendix D.9.2),A01
+G02,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,A,4,1,0,1,1,,A01
+G03,no_grant,no,no,no,other_reason,none,,0,0,0,not_applicable,,A01
+G04,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,D,,1,0,1,1,,A01
+G05,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,C,,1,0,1,1,,A01
+G06,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G07,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,B,6,1,0,1,1,,A01
+G08,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G09,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,Recoded on 2026-10-21 in the re-check of Type A assertions under the tightened wording (Appendix D.9.2),A01
+G10,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G11,adopted_submitted_solution,no,yes,no,no_reason,A,5,1,0,0,undeterminable,,A01
+G12,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,B,6,1,0,1,1,,A01
+G13,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,A,6,1,0,1,1,,A01
+G14,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,B,4,1,0,1,1,,A01
+G15,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,C,,1,0,1,1,,A01
+G16,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G17,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,B,3,1,0,1,1,,A01
+G18,new_answer_by_verifier,no,cannot_tell,no,no_reason,A,,0,0,undeterminable,not_applicable,,A01
+G19,adopted_submitted_solution,no,yes,no,no_reason,A,6,1,0,0,undeterminable,,A01
+G20,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,Recoded on 2026-10-21 in the re-check of Type A assertions under the tightened wording (Appendix D.9.2),A01
+G21,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G22,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G23,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G24,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G25,no_grant,no,no,no,other_reason,none,,0,0,0,not_applicable,,A01
+G26,no_grant,no,no,no,other_reason,none,,0,0,0,not_applicable,,A01
+G27,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,B,4,1,0,1,1,,A01
+G28,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,A,6,1,0,1,1,,A01
+G29,new_answer_by_verifier,no,no,yes,other_reason,none,,0,0,0,not_applicable,,A01
+G30,adopted_submitted_solution,yes,cannot_tell,cannot_tell,other_reason,none,,1,1,undeterminable,undeterminable,,A01
+G31,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,Recoded on 2026-10-21 in the re-check of Type A assertions under the tightened wording (Appendix D.9.2),A01
+G32,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,A,4,1,0,1,1,,A01
+G33,adopted_submitted_solution,no,yes,no,no_reason,B,6,1,0,0,undeterminable,,A01
+G34,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G35,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G36,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,A,5,1,0,1,1,,A01
+G37,adopted_submitted_solution,no,cannot_tell,no,other_reason,B,3,1,0,undeterminable,undeterminable,,A01
+G38,no_grant,no,no,no,other_reason,none,,0,0,0,not_applicable,,A01
+G39,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,A,6,1,0,1,1,,A01
+G40,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,Recoded on 2026-10-21 in the re-check of Type A assertions under the tightened wording (Appendix D.9.2),A01
+G41,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G42,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G43,adopted_submitted_solution,yes,cannot_tell,cannot_tell,other_reason,none,,1,1,undeterminable,undeterminable,,A01
+G44,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,Recoded on 2026-10-21 in the re-check of Type A assertions under the tightened wording (Appendix D.9.2),A01
+G45,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,A,5,1,0,1,1,,A01
+G46,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,Recoded on 2026-10-21 in the re-check of Type A assertions under the tightened wording (Appendix D.9.2),A01
+G47,adopted_submitted_solution,yes,cannot_tell,cannot_tell,other_reason,none,,1,1,undeterminable,undeterminable,,A01
+G48,no_grant,no,no,no,other_reason,none,,0,0,0,not_applicable,,A01
+G49,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,Recoded on 2026-10-21 in the re-check of Type A assertions under the tightened wording (Appendix D.9.2),A01
+G50,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,C,2,1,0,1,1,,A01
+G51,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G52,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G53,new_answer_by_verifier,no,no,no,other_reason,none,,0,0,0,not_applicable,,A01
+G54,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,C,,1,0,1,1,,A01
+G55,adopted_submitted_solution,no,cannot_tell,no,other_reason,D,,1,0,undeterminable,undeterminable,,A01
+G56,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,D,,1,0,1,1,,A01
+G57,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G58,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G59,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G60,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,C,,1,0,1,1,,A01
+G61,adopted_submitted_solution,no,no,no,other_reason,none,,1,0,0,0,,A01
+G62,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,A,7,1,0,1,1,Corrected on 2026-10-22 after the first review round. Message [7] states that the code confirmed the result after the empty execution return [6],A01
+G63,adopted_submitted_solution,no,no,no,other_reason,none,,1,0,0,0,,A01
+G64,adopted_submitted_solution,no,yes,no,other_reason,none,,1,0,0,0,,A01
+G65,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G66,new_answer_by_verifier,yes,no,no,other_reason,none,,0,1,0,not_applicable,,A01
+G67,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G68,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G69,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,C,,1,0,1,1,,A01
+G70,new_answer_by_verifier,no,no,no,other_reason,none,,0,0,0,not_applicable,,A01
+G71,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G72,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G73,no_grant,no,no,no,other_reason,none,,0,0,0,not_applicable,,A01
+G74,no_grant,no,no,no,other_reason,none,,0,0,0,not_applicable,,A01
+G75,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G76,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,C,,1,0,1,1,,A01
+G77,new_answer_by_verifier,no,yes,no,agreement_of_both_sides,none,,0,0,1,not_applicable,Corrected on 2026-10-22 after the first review round. The granted value 288 was not submitted by either side,A01
+G78,adopted_submitted_solution,no,no,cannot_tell,other_reason,none,,1,0,0,0,,A01
+G79,no_grant,no,no,no,other_reason,none,,0,0,0,not_applicable,,A01
+G80,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,none,,1,0,1,source_coupled_structure,,A01
+G81,adopted_submitted_solution,yes,yes,no,agreement_of_both_sides,none,,1,1,1,source_coupled_structure,,A01
+G82,adopted_submitted_solution,yes,no,cannot_tell,other_reason,none,,1,1,0,0,,A01
+G83,adopted_submitted_solution,no,yes,no,other_reason,none,,1,0,0,0,,A01
+G84,new_answer_by_verifier,yes,no,no,other_reason,none,,0,1,0,not_applicable,,A01
+G85,no_grant,no,no,no,other_reason,none,,0,0,0,not_applicable,,A01
+G86,adopted_submitted_solution,no,yes,no,agreement_of_both_sides,C,,1,0,1,1,,A01
