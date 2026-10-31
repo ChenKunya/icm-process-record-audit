@@ -7,7 +7,7 @@ Each benchmark is coded on 10 process-record fields, giving 740 coding units. Ev
 | Code | Meaning |
 | --- | --- |
 | D | Directly available in the public default record |
-| R | No independent field exists, but the information can be recovered uniquely from the public default record, either through a deterministic mapping or after adopting an additional convention not documented in the benchmark materials. |
+| R | No independent field exists, but the information can be recovered uniquely from the public default record, either through a deterministic mapping or after adopting an additional convention not documented in the benchmark materials. The latter cases are flagged in the recovery-stability column of the "Coding" sheet and are recoded as U in the stable-inference sensitivity. |
 | U | The process object exists, but the required information is neither available nor uniquely recoverable |
 | NA | The process object is not instantiated in the standard task process of the benchmark |
 
@@ -16,8 +16,8 @@ Each benchmark is coded on 10 process-record fields, giving 740 coding units. Ev
 | ID | Role | Units |
 | --- | --- | --- |
 | A01 | Primary coder (one of the authors). Codes all 740 units. These codes are the data analysed in the manuscript. | 740 |
-| A02 | Annotator for the reliability check, not involved in the study | 80 |
-| A03 | Annotator for the reliability check, not involved in the study | 80 |
+| A02 | Annotator for the reliability check (undergraduate student), not involved in the study design or the primary coding | 80 |
+| A03 | Annotator for the reliability check (undergraduate student), not involved in the study design or the primary coding | 80 |
 
 In Appendix C.1.3, annotator 1 is A02 and annotator 2 is A03.
 
@@ -44,7 +44,7 @@ python scripts/reliability_sampling.py
 python scripts/reliability_statistics.py
 ```
 
-Both statistics scripts read the coded answers directly and do not use the formula columns of the workbooks. The bootstrap seed is 20261019 for the audit and 20261020 for the reliability check, and 20261020 is also the sampling seed.
+Both statistics scripts read the coded answers directly and do not use the formula columns of the workbooks. Each bootstrap uses 10,000 benchmark-level resamples with replacement. The seed is 20261019 for the audit and 20261020 for the reliability check, and 20261020 is also the sampling seed.
 
 ## Coding criteria
 
@@ -63,10 +63,12 @@ Both statistics scripts read the coded answers directly and do not use the formu
 | Class C | Dependence relations and parameter provenance both D or R | Benchmarks where both fields are applicable |
 | Class M | Validity-change event D or R | Benchmarks where the field is applicable |
 
+The Class M proxy indicates that entry-value updates can be recovered. No benchmark records the validity state itself (0/20), as reported in Section 7.2.3.
+
 ## Reliability check
 
 After A01 had completed all 740 units, one benchmark was drawn at random from each of the seven task families and one more from the remaining 67 benchmarks. A02 and A03 then coded the 80 units of these 8 benchmarks independently with the annotation form. For each unit the form asks whether the process object exists, whether it is directly visible in the public records, and whether it can be uniquely recovered. The answers determine D, R, U or NA. The form does not record boundary strength or recovery stability. The "Annotator information" sheet of each completed form records the annotator's answers about independence.
 
 ## Task families
 
-Task families are defined by benchmark ID: 1–6 planning and feedback, 7–20 tools and interfaces, 21–37 web and graphical interface, 38–42 memory, 43–54 general and multi-agent, 55–57 safety and privacy, 58–74 software, science, and data.
+Task families are defined by benchmark ID: 1–6 planning and feedback, 7–20 tool and interface, 21–37 web and graphical interface, 38–42 memory, 43–54 general and multi-agent tasks, 55–57 safety and privacy, 58–74 software, science and data tasks.
