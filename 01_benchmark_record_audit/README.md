@@ -7,7 +7,7 @@ Each benchmark is coded on 10 process-record fields, giving 740 coding units. Ev
 | Code | Meaning |
 | --- | --- |
 | D | Directly available in the public default record |
-| R | Uniquely recoverable from the public default record through a deterministic mapping |
+| R | No independent field exists, but the information can be recovered uniquely from the public default record, either through a deterministic mapping or after adopting an additional convention not documented in the benchmark materials. |
 | U | The process object exists, but the required information is neither available nor uniquely recoverable |
 | NA | The process object is not instantiated in the standard task process of the benchmark |
 
@@ -50,9 +50,9 @@ Both statistics scripts read the coded answers directly and do not use the formu
 
 | Criterion | Rule |
 | --- | --- |
-| Protocol A (`main`) | Final codes as coded |
+| Protocol A (`main`) | Final codes as coded, including R cases requiring an additional convention |
 | Applicability sensitivity (`app`) | NA with a weak boundary is recoded as U |
-| Stable-inference sensitivity (`inf`) | R that requires an additional convention is recoded as U |
+| Stable-inference sensitivity (`inf`) | R cases requiring an additional convention not documented in the benchmark materials are recoded as U |
 | Joint stress test (`joint`) | Both changes |
 
 ## Proxies
